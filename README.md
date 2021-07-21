@@ -23,7 +23,7 @@ yarn add https://github.com/LongNguyen2312/react-native-connectyCube-add.git
 and you're ready to go:
 
 ```javascript
-import ConnectyCube from 'react-native-connectycube'
+import ConnectyCube from 'react-native-connectyCube-add'
 
 const credentials = {
     appId: 21,
